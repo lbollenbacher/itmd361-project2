@@ -1,3 +1,14 @@
+#heading {
+  text-align: center;
+}
+
+h1 {
+  font-family: Futura, sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: LightPink;
+}
+
 div.gallery {
   margin: 65px;
   border: 3px inset PaleGreen;
