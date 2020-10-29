@@ -1,0 +1,37 @@
+div.gallery {
+  margin: 65px;
+  border: 3px inset PaleGreen;
+  float: left;
+  width: 180px;
+  border-radius: 25px;
+  background: MintCream;
+  padding: 50px; 
+  height: 150px; 
+}
+
+div.gallery:hover {
+  border: 3px inset LightPink;
+  background: PeachPuff;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+  border: 3px solid LightPink;
+  border-radius: 15px;
+}
+
+div.gallery img:hover {
+  border: 3px solid MintCream;
+}
+
+div.desc {
+  padding: 15px;
+  font-family: Arial;
+  text-align: center;
+  color: SandyBrown;
+}
+
+div.desc:hover {
+  color: MediumSeaGreen;
+}
