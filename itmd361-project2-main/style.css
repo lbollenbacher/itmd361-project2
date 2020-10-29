@@ -16,8 +16,8 @@ div.gallery:hover {
 
 div.gallery img {
   margin: -63px;
-  width: 400px;
-  height: 300px;
+  width: 300px;
+  height: 200px;
   border: 3px solid LightPink;
   border-radius: 15px;
 }
