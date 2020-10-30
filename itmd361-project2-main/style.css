@@ -31,10 +31,6 @@ body {
   background-color: SeaShell;
 }
 
-#centertext {
-  text-align: center;
-}
-
 h1 {
   font-family: Futura, sans-serif;
   font-weight: bold;
@@ -160,3 +156,9 @@ li.notnav {
 #textcentered: {
   text-align: center;
 }
+
+h2.browntext {
+  text-align: center;
+  color: SandyBrown;
+  font-family: Futura, sans-serif;
+  font-size: 20px;
