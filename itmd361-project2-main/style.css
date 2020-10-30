@@ -149,3 +149,7 @@ body.center {
 ul.list {
   list-style-type: circle;
 }
+
+li.notnav {
+  float: none;
+}
