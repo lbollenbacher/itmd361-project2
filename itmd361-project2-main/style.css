@@ -25,6 +25,14 @@ p.filler {
   margin: auto;  
 }
 
+.msub {
+  font-family: Futura, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: LightPink;
+}
+
+
 div.gallery {
   margin: 65px;
   border: 3px inset PaleGreen;
