@@ -14,13 +14,15 @@ h1 {
 }
 
 p.filler {
+  background-color: LightPink;
+  border: 15px solid Snow;
+  text-align: center;
   font-family: Baskerville, serif;
   font-size: 30px;
-  background-color: LightPink;
-  width: 300px;
-  border: 15px solid Snow;
+  max-width: 500px;
+  height: 300px;
   padding: 50px;
-  margin: 20px;  
+  margin: auto;  
 }
 
 div.gallery {
