@@ -1,4 +1,4 @@
-ul.nav {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -8,11 +8,11 @@ ul.nav {
   border-radius: 15px;
 }
 
-li.lfloat {
+li {
   float: left;
 }
 
-li.lfloat a {
+li a {
   display: block;
   font-family: Baskerville;
   font-size: 20px;
@@ -23,7 +23,7 @@ li.lfloat a {
   text-decoration: none;
 }
 
-li.lfloat a:hover {
+li a:hover {
   background-color: SeaShell;
 }
 
@@ -146,6 +146,11 @@ body.center {
   text-align: center;
 }
 
-ul{
-  list-style-type: circle;
+ul.list {
+  list-style-type: none !important;
 }
+
+li.notnav {
+  float: none !important;
+}
+
