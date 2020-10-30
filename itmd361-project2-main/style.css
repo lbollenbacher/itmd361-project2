@@ -32,8 +32,7 @@ h2.msub {
   color: LightPink;
 }
 
-
-div.gallery {
+div.picleft {
   margin: 65px;
   border: 3px inset PaleGreen;
   float: left;
@@ -44,18 +43,44 @@ div.gallery {
   padding: 100px; 
 }
 
-div.gallery:hover {
+div.picright {
+  margin: 65px;
+  border: 3px inset PaleGreen;
+  float: right;
+  width: 280px;
+  height: 220px; 
+  border-radius: 25px;
+  background: MintCream;
+  padding: 100px; 
+}
+
+div.picleft:hover {
   border: 3px inset LightPink;
   background: PeachPuff;
 }
 
-div.gallery img {
+div.picright:hover {
+  border: 3px inset LightPink;
+  background: PeachPuff;
+}
+
+div.picleft img {
   margin: -63px;
   border: 3px solid LightPink;
   border-radius: 15px;
 }
 
-div.gallery img:hover {
+div.picright img {
+  margin: -63px;
+  border: 3px solid LightPink;
+  border-radius: 15px;
+}
+
+div.picleft img:hover {
+  border: 3px solid MintCream;
+}
+
+div.picleft img:hover {
   border: 3px solid MintCream;
 }
 
