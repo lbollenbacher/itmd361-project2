@@ -146,10 +146,6 @@ body.center {
   text-align: center;
 }
 
-ul.list {
+ul{
   list-style-type: circle;
-}
-
-li.notnav {
-  float: none;
 }
