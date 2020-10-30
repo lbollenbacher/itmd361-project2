@@ -154,3 +154,9 @@ li.notnav {
   float: none !important;
 }
 
+/* Art portfolio page
+*/
+
+#textcentered: {
+  text-align: center;
+}
