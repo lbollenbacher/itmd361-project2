@@ -46,7 +46,7 @@ p.filler {
   font-family: Baskerville, serif;
   font-size: 30px;
   max-width: 500px;
-  height: 200px;
+  height: auto;
   padding: 50px;
   margin: auto;  
 }
