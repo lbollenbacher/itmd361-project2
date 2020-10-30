@@ -139,10 +139,15 @@ div.desc:hover {
   color: MediumSeaGreen;
 }
 
-div.iframe {
-  align-self: center;
-  border-radius: 25px;
+/* Resume page
+*/
+
+body.center {
+  text-align: center;
 }
 
-div.iframe:hover {
+ul.list {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
 }
