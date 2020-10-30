@@ -2,7 +2,7 @@ body {
   background-color: SeaShell;
 }
 
-#heading {
+#centertext {
   text-align: center;
 }
 
@@ -25,9 +25,23 @@ p.filler {
   margin: auto;  
 }
 
-h2.msub {
+h2.greentext {
   text-align: center;
   color: MediumSeaGreen;
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+}
+
+h2.browntext {
+  text-align: center;
+  color: SandyBrown;
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+}
+
+h2.pinktext {
+  text-align: center;
+  color: LightPink;
   font-family: Futura, sans-serif;
   font-size: 50px;
 }
