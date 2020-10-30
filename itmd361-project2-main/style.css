@@ -158,7 +158,7 @@ li.notnav {
 }
 
 h2.browntext {
-  text-align: center;
+  text-align: center !important;
   color: SandyBrown;
   font-family: Futura, sans-serif;
   font-size: 20px;
