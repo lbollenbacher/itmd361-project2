@@ -140,17 +140,9 @@ div.desc:hover {
 }
 
 div.iframe {
-  margin: 65px;
-  border: 3px inset PaleGreen;
-  float: left;
-  width: 280px;
-  height: 220px; 
+  align-self: center;
   border-radius: 25px;
-  background: MintCream;
-  padding: 100px;
 }
 
 div.iframe:hover {
-  border: 3px inset LightPink;
-  background: PeachPuff;
 }
