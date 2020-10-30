@@ -9,7 +9,7 @@ body {
 h1 {
   font-family: Futura, sans-serif;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 80px;
   color: LightPink;
 }
 
@@ -27,9 +27,9 @@ p.filler {
 
 h2.msub {
   text-align: center;
-  color: LightPink;
+  color: MediumSeaGreen;
   font-family: Futura, sans-serif;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 div.picleft {
@@ -87,7 +87,7 @@ div.picleft img:hover {
 div.desc {
   margin: 62px;
   padding: 15px;
-  font-family: Arial;
+  font-family: Baskerville, serif;
   text-align: center;
   color: SandyBrown;
 }
