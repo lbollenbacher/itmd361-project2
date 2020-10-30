@@ -1,3 +1,7 @@
+body {
+  background-color: SeaShell;
+}
+
 #heading {
   text-align: center;
 }
@@ -10,7 +14,13 @@ h1 {
 }
 
 p.filler {
-  font-family:
+  font-family: Baskerville, serif;
+  font-size: 30px;
+  background-color: LightPink;
+  width: 300px;
+  border: 15px solid Snow;
+  padding: 50px;
+  margin: 20px;  
 }
 
 div.gallery {
