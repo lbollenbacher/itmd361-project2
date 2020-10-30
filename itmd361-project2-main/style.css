@@ -26,16 +26,11 @@ p.filler {
 }
 
 h2.msub {
-  border: 2px solid SeaShell;
-  background: SeaShell;
   color: LightPink;
   font-family: Futura, sans-serif;
   font-weight: bold;
   font-size: 40px;
   text-align: center
-  padding: 20px; 
-  width: 200px;
-  height: 150px;
 }
 
 div.picleft {
