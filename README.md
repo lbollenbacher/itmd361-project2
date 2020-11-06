@@ -1,2 +1,2 @@
-# itmd361-project1
-Project 1 for ITMD361: Using HTML Only
+# itmd361-project2
+Project 2 for ITMD361: HTML combined with CSS
