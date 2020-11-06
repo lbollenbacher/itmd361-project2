@@ -1,0 +1,168 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: MintCream;
+  border: 10px solid Snow;
+  border-radius: 15px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  font-family: Baskerville;
+  font-size: 20px;
+  color: MediumSeaGreen;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 18px 18px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: SeaShell;
+}
+
+body {
+  background-color: SeaShell;
+}
+
+h1 {
+  font-family: Futura, sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  color: LightPink;
+  text-align: center;
+}
+
+p.filler {
+  background-color: PeachPuff;
+  border: 15px solid Snow;
+  text-align: center;
+  font-family: Baskerville, serif;
+  font-size: 30px;
+  max-width: 500px;
+  height: auto;
+  padding: 50px;
+  margin: auto;  
+}
+
+h2.greentext {
+  text-align: center;
+  color: MediumSeaGreen;
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+}
+
+h2.browntext {
+  text-align: center;
+  color: SandyBrown;
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+}
+
+h2.pinktext {
+  text-align: center;
+  color: LightPink;
+  font-family: Futura, sans-serif;
+  font-size: 50px;
+}
+
+div.picleft {
+  margin: 65px;
+  border: 3px inset PaleGreen;
+  float: left;
+  width: 280px;
+  height: 220px; 
+  border-radius: 25px;
+  background: MintCream;
+  padding: 100px; 
+}
+
+div.picright {
+  margin: 65px;
+  border: 3px inset PaleGreen;
+  float: right;
+  width: 280px;
+  height: 220px; 
+  border-radius: 25px;
+  background: MintCream;
+  padding: 100px; 
+}
+
+div.picleft:hover {
+  border: 3px inset LightPink;
+  background: PeachPuff;
+}
+
+div.picright:hover {
+  border: 3px inset LightPink;
+  background: PeachPuff;
+}
+
+div.picleft img {
+  margin: -63px;
+  border: 3px solid LightPink;
+  border-radius: 15px;
+}
+
+div.picright img {
+  margin: -63px;
+  border: 3px solid LightPink;
+  border-radius: 15px;
+}
+
+div.picleft img:hover {
+  border: 3px solid MintCream;
+}
+
+div.picleft img:hover {
+  border: 3px solid MintCream;
+}
+
+div.desc {
+  margin: 62px;
+  padding: 15px;
+  font-family: Baskerville, serif;
+  text-align: center;
+  color: SandyBrown;
+}
+
+div.desc:hover {
+  color: MediumSeaGreen;
+}
+
+/* Resume page
+*/
+
+body.center {
+  text-align: center;
+}
+
+ul.list {
+  list-style-type: none !important;
+}
+
+li.notnav {
+  float: none !important;
+}
+
+/* Art portfolio page
+*/
+
+h3 {
+  text-align: center;
+  color: SandyBrown;
+  font-family: Baskerville, serif;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: Futura, sans-serif;
+  color: LightPink;
+  text-align: center;
+}
