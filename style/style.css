@@ -32,10 +32,11 @@ body {
 }
 
 h1 {
+  color: LightPink;
   font-family: Futura, sans-serif;
   font-weight: bold;
   font-size: 4.375em;
-  color: LightPink;
+  margin: 25px 50px;
   text-align: center;
 }
 
@@ -52,24 +53,27 @@ p.filler {
 }
 
 h2.greentext {
-  text-align: center;
   color: MediumSeaGreen;
   font-family: Futura, sans-serif;
   font-size: 3.125em;
+  margin: 25px 50px;
+  text-align: center;
 }
 
 h2.browntext {
-  text-align: center;
   color: SandyBrown;
   font-family: Futura, sans-serif;
   font-size: 3.125em;
+  margin: 25px 50px;
+  text-align: center;
 }
 
 h2.pinktext {
-  text-align: center;
   color: LightPink;
   font-family: Futura, sans-serif;
   font-size: 3.125em;
+  margin: 25px 50px;
+  text-align: center;
 }
 
 div.picleft {
@@ -156,14 +160,16 @@ li.notnav {
 */
 
 h3 {
-  text-align: center;
   color: SandyBrown;
   font-family: Baskerville, serif;
   font-size: 1.25em;
+  margin: 25px 50px;
+  text-align: center;
 }
 
 h4 {
-  font-family: Futura, sans-serif;
   color: LightPink;
+  font-family: Futura, sans-serif;
+  margin: 25px 50px;
   text-align: center;
 }
