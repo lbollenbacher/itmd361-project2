@@ -1,11 +1,12 @@
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
   background-color: MintCream;
   border: 10px solid Snow;
   border-radius: 15px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
 }
 
 li {
@@ -18,7 +19,6 @@ li a {
   font-size: 20px;
   color: MediumSeaGreen;
   text-align: center;
-  justify-content: center;
   text-transform: uppercase;
   padding: 18px 18px;
   text-decoration: none;
