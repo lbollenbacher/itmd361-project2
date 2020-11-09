@@ -1,7 +1,6 @@
 ul {
   background-color: MintCream;
   border: 10px solid Snow;
-  border-radius: 15px;
   list-style-type: none;
   margin: 0;
   overflow: hidden;
@@ -13,7 +12,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline-block;
   font-family: Baskerville;
   font-size: 1.25em;
   color: MediumSeaGreen;
