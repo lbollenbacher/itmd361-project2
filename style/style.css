@@ -75,6 +75,14 @@ h2.pinktext {
   text-align: center;
 }
 
+h3 {
+  color: SandyBrown;
+  font-family: Baskerville, serif;
+  font-size: 1.25em;
+  margin: 25px 50px;
+  text-align: center;
+}
+
 div.picleft {
   margin: 65px;
   border: 3px inset PaleGreen;
@@ -157,14 +165,6 @@ li.notnav {
 
 /* Art portfolio page
 */
-
-h3 {
-  color: SandyBrown;
-  font-family: Baskerville, serif;
-  font-size: 1.25em;
-  margin: 25px 50px;
-  text-align: center;
-}
 
 h4 {
   color: LightPink;
