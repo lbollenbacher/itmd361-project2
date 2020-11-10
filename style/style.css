@@ -58,7 +58,7 @@ h2.greentext {
   color: MediumSeaGreen;
   font-family: Futura, sans-serif;
   font-size: 3.125em;
-  margin:70px 120px;
+  margin: 70px 120px;
   text-align: center;
 }
 
@@ -150,8 +150,6 @@ div.desc {
 div.desc:hover {
   color: MediumSeaGreen;
 }
-
-iframe
 
 /* Resume page
 */
