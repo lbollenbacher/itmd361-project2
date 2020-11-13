@@ -94,6 +94,23 @@ p.filler {
   margin: auto;  
 }
 
+/* Hyperlinks */
+
+a:link {
+  text-decoration: none;
+  color: MediumSeaGreen;
+}
+
+a:visited {
+  text-decoration: none;
+  color: LightPink;  
+}
+
+a:hover {
+  text-decoration: underline ;
+  color: MintCream;
+}
+
 /* Images, Containers & Descriptions */
 
 div.picleft {
