@@ -165,10 +165,7 @@ div.desc:hover {
 
 ul {
   list-style-type: none;
-}
-
-li {
-  float: none;
+  text-align: center;
 }
 
 /* Art Portfolio Footer Text */
