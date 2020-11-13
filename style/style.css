@@ -1,3 +1,5 @@
+/* Navigation */
+
 #nav ul {
   background-color: MintCream;
   border: 10px solid Snow;
@@ -28,10 +30,14 @@
   background-color: SeaShell;
 }
 
+/* body */
+
 body {
   background-color: SeaShell;
   text-align: center;
 }
+
+/* Headers & Subheaders */
 
 h1 {
   color: LightPink;
@@ -40,18 +46,6 @@ h1 {
   font-size: 4.375em;
   margin: 50px;
   text-align: center;
-}
-
-p.filler {
-  background-color: PeachPuff;
-  border: 15px solid Snow;
-  text-align: center;
-  font-family: Baskerville, serif;
-  font-size: 1.875em;
-  max-width: 500px;
-  height: auto;
-  padding: 50px;
-  margin: auto;  
 }
 
 h2.greentext {
@@ -85,6 +79,22 @@ h3 {
   margin: 25px 50px;
   text-align: center;
 }
+
+/* Paragraphs */
+
+p.filler {
+  background-color: PeachPuff;
+  border: 15px solid Snow;
+  text-align: center;
+  font-family: Baskerville, serif;
+  font-size: 1.875em;
+  max-width: 500px;
+  height: auto;
+  padding: 50px;
+  margin: auto;  
+}
+
+/* Images, Containers & Descriptions */
 
 div.picleft {
   margin: 65px;
@@ -151,19 +161,17 @@ div.desc:hover {
   color: MediumSeaGreen;
 }
 
-/* Resume page
-*/
+/* Resume page */
 
-ul.list {
-  list-style-type: none !important;
+ul {
+  list-style-type: none;
 }
 
-li.notnav {
-  float: none !important;
+li {
+  float: none;
 }
 
-/* Art portfolio page
-*/
+/* Art Portfolio Footer Text */
 
 h4 {
   color: LightPink;
