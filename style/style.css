@@ -165,19 +165,6 @@ div.picleft img:hover {
   border: 3px solid MintCream;
 }
 
-div.desc {
-  margin: 62px;
-  padding: 15px;
-  font-family: Baskerville, serif;
-  font-size: 1em;
-  text-align: center;
-  color: SandyBrown;
-}
-
-div.desc:hover {
-  color: MediumSeaGreen;
-}
-
 div.piccenter {
   background: MintCream;
   border: 3px inset PaleGreen;
@@ -190,8 +177,27 @@ div.piccenter {
   margin-right: auto;
 }
 
+div.piccenter img {
+  margin: -63px;
+  border: 3px solid LightPink;
+  border-radius: 15px;
+}
+
 div.piccenter img:hover {
   border: 3px solid MintCream;
+}
+  
+div.desc {
+  margin: 62px;
+  padding: 15px;
+  font-family: Baskerville, serif;
+  font-size: 1em;
+  text-align: center;
+  color: SandyBrown;
+}
+
+div.desc:hover {
+  color: MediumSeaGreen;
 }
 
 /* Resume page */
