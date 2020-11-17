@@ -50,7 +50,7 @@ h1 {
 h2.greentext {
   color: MediumSeaGreen;
   font-family: Futura, sans-serif;
-  font-size: 3.125em;
+  font-size: 3em;
   margin: 70px 120px;
   text-align: center;
 }
@@ -58,7 +58,7 @@ h2.greentext {
 h2.browntext {
   color: SandyBrown;
   font-family: Futura, sans-serif;
-  font-size: 3.125em;
+  font-size: 3em;
   margin: 25px 50px;
   text-align: center;
 }
@@ -66,7 +66,7 @@ h2.browntext {
 h2.pinktext {
   color: LightPink;
   font-family: Futura, sans-serif;
-  font-size: 3.125em;
+  font-size: 3em;
   margin: 25px 50px;
   text-align: center;
 }
